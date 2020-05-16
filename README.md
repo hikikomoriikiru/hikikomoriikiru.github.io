@@ -1,0 +1,1 @@
+# hikikomoriikiru.github.io
