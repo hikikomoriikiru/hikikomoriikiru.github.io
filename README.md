@@ -1,1 +1,1 @@
-# hikikomoriikiru.github.io
+# omosei.github.io
