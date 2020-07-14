@@ -205,6 +205,48 @@ contents-background
     background: linear-gradient(to top left, rgba(251, 251, 251, 0) 50%, #FFFFFF 50.5%) no-repeat top left/100% 100%;
 }
 
+.sit-icon{
+    height: 100px; 
+    position: absolute;
+    top: 40px;
+    transform: rotate(354deg);
+}
+.icon2{
+    top: 31px;
+    left: 100px;
+}
+.icon3{
+    top: 21px;
+    left: 200px;
+}
+.icon4{
+    top: 12px;
+    left: 300px;
+}
+.icon5{
+    top: 3px;
+    left: 400px;
+}
+.icon6{
+    top: -7px;
+    left: 500px;
+}
+.icon7{
+    top: -16px;
+    left: 600px;
+}
+.icon8{
+    top: -25px;
+    left: 700px;
+}
+.icon9{
+    top: -35px;
+    left: 800px;
+}
+.icon10{
+    top: -44px;
+    left: 900px;
+}
 /*-------------------------------------
 member
 -------------------------------------*/
@@ -459,6 +501,9 @@ responsiv
         display: none;
     }
     header.fixed{
+        display: none;
+    }
+    .sit-icons{
         display: none;
     }
 
