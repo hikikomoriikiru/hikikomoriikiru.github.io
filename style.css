@@ -198,6 +198,7 @@ contents-background
     background-image: url(images/iceland-2111811_640.jpg);
     background-size: cover;
     background-position: 0 65%;
+    position: relative;
 }
 .background-cut{
     width: 100%;
